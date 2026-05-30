@@ -11,10 +11,11 @@ You do not edit this repo. You create your own personal copy of it — called a 
 ## Step 1 — Fork This Repo
 
 1. Make sure you are logged into your GitHub account
-2. Click the **Fork** button at the top-right of this page
-3. Under "Owner", select **your GitHub username**
-4. Name your repo: `devops-micro-internship-pravinmishra`
-5. Click **Create fork**
+2. Go to: https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra
+3. Click the **Fork** button at the top-right
+4. Under "Owner", select **your GitHub username**
+5. Keep the repo name as `devops-micro-internship-pravinmishra`
+6. Click **Create fork**
 
 You now have your own copy at:
 ```
@@ -84,7 +85,7 @@ When Pravin updates this repo (new weeks, corrections, new content), you can pul
 
 ```bash
 # Do this once to link the original repo
-git remote add upstream https://github.com/pravinmishra/devops-micro-internship-pravinmishra
+git remote add upstream https://github.com/pravinmishraaws/devops-micro-internship-pravinmishra
 
 # Each time you want to sync
 git fetch upstream
