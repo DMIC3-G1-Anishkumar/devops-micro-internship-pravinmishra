@@ -64,7 +64,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+EpicReads' website is hosted on a server in Finland, but users worldwide can access it through the Internet. When someone enters the website address, **DNS** finds the server's **IP address**, which uniquely identifies it on the network. The user's request is then broken into small pieces called **packets** using **packet switching**. These packets travel through different network routes and are reassembled when they reach the server. The **TCP/IP** protocol ensures the packets are delivered accurately and in the correct order. Finally, the browser communicates with the web server using **HTTP** or, more securely, **HTTPS**, to request and receive the website's pages. This process allows customers anywhere in the world to browse and purchase books from EpicReads quickly and securely.
+
 
 ---
 
@@ -107,18 +108,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML, CSS, JavaScript
+* React.js
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Express.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* PostgreSQL
 
 ---
 
@@ -146,8 +147,7 @@ In **50–100 words**, explain in your own words:
 2. Which DNS record type should be used to connect the domain to the given IP, and why?
 
 ## Answer
-
-Add your answer here...
+DNS (Domain Name System) is like the Internet's phonebook. It translates easy-to-remember domain names, such as epicreads.com, into IP addresses that computers use to locate servers. To connect epicreads.com to 52.172.142.222, an A (Address) record should be used because it maps a domain name directly to an IPv4 address. This allows users to access the website by typing the domain name instead of remembering the numeric IP address.
 
 ---
 
