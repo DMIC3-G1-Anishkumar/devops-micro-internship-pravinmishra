@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![week-00-internet-and-networking](screenshots/task-1-chatgpt.png)
+![week 00 internet and networking](screenshots/task-1-chatgpt.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
