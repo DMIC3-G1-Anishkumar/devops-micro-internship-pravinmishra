@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that a successful career is not just about earning the highest salary or reaching the top position. Many people measure success by money, expensive possessions, or job titles, but I think true success comes from having financial stability, continuously learning new skills, maintaining good health, and spending quality time with family. Money is important because it provides security and opportunities, but it should be a tool to improve life, not the ultimate goal. I also believe that life is a long journey where discipline, consistency, and personal growth matter more than short-term achievements. A balanced life with meaningful relationships and continuous self-improvement is, in my opinion, a greater measure of success than wealth or status alone.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Excitement helps you start something, but only planning and discipline help you finish it.
 
 ### Evidence from my life
 
-Add your answer here...
+I have started many things with a lot of excitement, like buying online courses, trying new hobbies, or planning personal projects. But without a proper plan or daily routine, I lost interest after some time and left many of them unfinished. This taught me that consistency is more important than excitement.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Multitasking decreases the quality of work and increases the time it takes to finish a task.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried studying to learn new tech while texting friends and watching videos. It took me four hours just to finish one topic, and I failed to complete it 4 hours also. The next day, I locked my phone away and easily finished three to four topics in two hours with a perfect hands-on it.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Relying on daily motivation is unreliable for long-term physical fitness compared to building a strict routine.
 
 ### Evidence from my life
 
-Add your answer here...
+I used to only go to the gym when I was in the mood, which meant I only went twice a month and saw no changes. Last quarter, I started packing my gym bag the night before and went straight before office. By sticking to this routine, I went 30 days in a row and doubled my strength.
 
 ---
 
