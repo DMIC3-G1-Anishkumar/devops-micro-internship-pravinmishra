@@ -189,7 +189,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes**
 
 If Yes:
 
@@ -197,7 +197,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+There have been times when I took shortcuts instead of doing something the right way. Although it may have saved time in the moment, I did not feel satisfied afterward. I mostly felt guilt and stress because I knew the work could have been done better. There was also a fear that the shortcut might create problems later or affect someone else's trust in me. That experience taught me that short-term convenience is rarely worth the long-term worry. Since then, I have tried to be more responsible, transparent, and focused on doing things correctly, even if it takes more time.
 
 ---
 
