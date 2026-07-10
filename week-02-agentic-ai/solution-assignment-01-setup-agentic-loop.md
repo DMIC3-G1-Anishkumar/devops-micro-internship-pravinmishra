@@ -26,7 +26,7 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-Add your screenshot here.
+![Vs code](./screenshots/VS-code-forked.png)
 
 ---
 
