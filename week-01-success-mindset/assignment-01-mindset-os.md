@@ -165,7 +165,7 @@ From a determined IT Manager at Medicodio to a visionary leader driving the futu
 
 Paste your link here:
 
-[`Add your URL here`](https://mydakshi.wordpress.com/2026/07/22/hello-world/)
+[https://mydakshi.wordpress.com/2026/07/22/hello-world/)]
 
 ---
 
