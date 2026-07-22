@@ -40,7 +40,8 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-Add your screenshot here.
+<img width="1887" height="1131" alt="image" src="https://github.com/user-attachments/assets/88d7ee15-2971-459a-8fdf-3ec3c214fefb" />
+
 
 ---
 
@@ -54,13 +55,15 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-Add your screenshot here.
+<img width="1836" height="1020" alt="image" src="https://github.com/user-attachments/assets/68f58f6f-1e88-4ae8-8fbe-06245c8af2e2" />
+
 
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-Add your screenshot here.
+<img width="1872" height="405" alt="image" src="https://github.com/user-attachments/assets/6e1ecbb8-4070-4a0c-9ca7-e26441ae7c09" />
+
 
 ---
 
@@ -77,18 +80,18 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/DMIC3-G1-Anishkumar/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 ---
 
 # Completion Checklist
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [Yes] Claude Code CLI installed successfully
+- [Yes] Claude Code authenticated successfully
+- [Yes] Repository forked successfully
+- [Yes] Repository cloned and opened in VS Code
+- [Yes] All required screenshots added
+- [Yes] GitHub repository URL provided
 
 ---
 
