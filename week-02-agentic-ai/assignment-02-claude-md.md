@@ -65,13 +65,15 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
+<img width="1902" height="1096" alt="image" src="https://github.com/user-attachments/assets/6bb11cde-9149-4238-81db-d0fc85531e8c" />
+
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+<img width="1892" height="662" alt="image" src="https://github.com/user-attachments/assets/beb125ab-0097-4b29-979a-9490db33aa43" />
+
 
 ---
 
@@ -85,7 +87,8 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+<img width="1822" height="1092" alt="image" src="https://github.com/user-attachments/assets/9dbe51c0-6338-44df-a0f9-816f4ae82db7" />
+
 
 ---
 
@@ -101,19 +104,19 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/DMIC3-G1-Anishkumar/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 ---
 
 # Completion Checklist
 
-[ ] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
-[ ] Screenshot 2 shows the auto-generated `/init` output <br>
-[ ] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
-[ ] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
-[ ] Screenshot 5 shows Claude refusing the React request <br>
-[ ] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
-[ ] GitHub repository URL is included in the submission <br>
+[Yes] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
+[Yes] Screenshot 2 shows the auto-generated `/init` output <br>
+[Yes] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
+[Yes] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
+[Yes] Screenshot 5 shows Claude refusing the React request <br>
+[Yes] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
+[Yes] GitHub repository URL is included in the submission <br>
 
 ---
 
