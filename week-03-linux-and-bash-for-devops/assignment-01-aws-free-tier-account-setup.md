@@ -95,11 +95,11 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot of AWS Account page captured (full name visible, no sensitive data)
-- [ ] All required screenshots added to repository
+- [Yes] Task 1 answers written in own words
+- [Yes] AWS Free Tier account created successfully
+- [Yes] Signed in to AWS Management Console
+- [Yes] Screenshot of AWS Account page captured (full name visible, no sensitive data)
+- [Yes] All required screenshots added to repository
 <img width="1901" height="1087" alt="image" src="https://github.com/user-attachments/assets/5b84f185-eebd-4401-b774-a748e733075f" />
 
 ---
