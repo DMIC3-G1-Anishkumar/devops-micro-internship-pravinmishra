@@ -78,13 +78,15 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+<img width="1917" height="1142" alt="image" src="https://github.com/user-attachments/assets/177ec84a-f621-4c22-b482-dc5f9563fd97" />
+
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+<img width="1917" height="1130" alt="image" src="https://github.com/user-attachments/assets/50db046b-48d6-4ded-8ebd-4bc276a0ee94" />
+
 
 ---
 
@@ -98,7 +100,8 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/c5385359-7145-40cb-8346-f6ef34ca7bb9" />
+
 
 ---
 
@@ -114,22 +117,22 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/DMIC3-G1-Anishkumar/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 ---
 
 # Completion Checklist
 
-- [ ] `.claude/agents/` folder contains all 3 agent files
-- [ ] Screenshot 2 shows correct `security-auditor.md` configuration
-- [ ] Screenshot 3 shows correct `cost-optimizer.md` configuration
-- [ ] All 3 written answers completed 
-- [ ] Security auditor executed successfully
-- [ ] Cost optimizer executed successfully
-- [ ] Security report is visible with findings
-- [ ] Cost report is visible with recommendations
-- [ ] All required screenshots added
-- [ ] GitHub repo updated with agents
+- [Yes] `.claude/agents/` folder contains all 3 agent files
+- [Yes] Screenshot 2 shows correct `security-auditor.md` configuration
+- [Yes] Screenshot 3 shows correct `cost-optimizer.md` configuration
+- [Yes] All 3 written answers completed 
+- [Yes] Security auditor executed successfully
+- [Yes] Cost optimizer executed successfully
+- [Yes] Security report is visible with findings
+- [Yes] Cost report is visible with recommendations
+- [Yes] All required screenshots added
+- [Yes] GitHub repo updated with agents
 
 ---
 
