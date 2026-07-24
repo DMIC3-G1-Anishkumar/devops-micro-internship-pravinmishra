@@ -20,7 +20,8 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+<img width="1917" height="767" alt="image" src="https://github.com/user-attachments/assets/63de8bdd-26fc-4c8d-9bc8-f65eedc5bfb2" />
+
 
 ---
 
@@ -34,7 +35,8 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+<img width="1905" height="557" alt="image" src="https://github.com/user-attachments/assets/0b8844dd-5452-4bc3-81e6-5892f147d8bb" />
+
 
 ---
 
@@ -48,7 +50,8 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+<img width="1917" height="887" alt="image" src="https://github.com/user-attachments/assets/c1916f56-5b38-4d6f-bef2-540a30b2735f" />
+
 
 ---
 
@@ -62,13 +65,15 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+<img width="1771" height="126" alt="image" src="https://github.com/user-attachments/assets/0581d3a3-6eb8-419c-9db7-c9ac2d0773be" />
+
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+<img width="1315" height="85" alt="image" src="https://github.com/user-attachments/assets/bd45650e-8328-4fe8-ba91-445aa2b0654c" />
+
 
 ---
 
@@ -82,13 +87,15 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<img width="1101" height="72" alt="image" src="https://github.com/user-attachments/assets/68286a95-03a8-44eb-b7a2-225d6e8189e5" />
+
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+<img width="1912" height="1081" alt="image" src="https://github.com/user-attachments/assets/d11920a7-cecd-4672-9347-e3058355da40" />
+
 
 ---
 
@@ -102,13 +109,15 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+<img width="1906" height="902" alt="image" src="https://github.com/user-attachments/assets/dbd8c445-036f-43c6-a34a-20dc3965865b" />
+
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+<img width="1911" height="892" alt="image" src="https://github.com/user-attachments/assets/7e2be5c8-68e9-4776-9e60-96ff317b93cf" />
+
 
 ---
 
@@ -141,15 +150,15 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Screenshot 0: Nginx service status (active/running)
-- [ ] Screenshot 1: Website files downloaded and extracted
-- [ ] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
-- [ ] Screenshot 3: Nginx configuration test successful
-- [ ] Screenshot 4: Website files deployed to /var/www/html
-- [ ] Screenshot 5: Public IP retrieved
-- [ ] Screenshot 6: Live website accessible in browser with footer details
-- [ ] Screenshot 7: Nginx enabled on boot
-- [ ] Screenshot 8: Local HTTP response returns 200 OK
+- [Yes] Screenshot 0: Nginx service status (active/running)
+- [Yes] Screenshot 1: Website files downloaded and extracted
+- [Yes] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
+- [Yes] Screenshot 3: Nginx configuration test successful
+- [Yes] Screenshot 4: Website files deployed to /var/www/html
+- [Yes] Screenshot 5: Public IP retrieved
+- [Yes] Screenshot 6: Live website accessible in browser with footer details
+- [Yes] Screenshot 7: Nginx enabled on boot
+- [Yes] Screenshot 8: Local HTTP response returns 200 OK
 - [ ] LinkedIn post published and URL submitted
 - [ ] Full Name visible in all required screenshots
 - [ ] No sensitive data exposed
