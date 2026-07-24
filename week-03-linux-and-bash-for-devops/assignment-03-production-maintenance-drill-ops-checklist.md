@@ -416,31 +416,30 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+SSH key-based authentication is more secure because it uses a pair of cryptographic keys instead of a password. The private key stays only with the user, while the public key is stored on the server. This makes it much harder for attackers to guess or brute-force credentials, reducing the risk of unauthorized access.
 
 ---
 
 **2. Why should only required ports be open on a production server?**
+Only the ports required for the application's operation should be open to minimize the server's attack surface. Closing unnecessary ports reduces the risk of unauthorized access, network attacks, and exploitation of unused services, improving the overall security of the production environment.
 
-Write your answer here.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
-
-Write your answer here.
+Enabling Nginx on boot ensures that the web server starts automatically whenever the server is restarted. This helps maintain application availability without requiring manual intervention and reduces downtime after system reboots or maintenance.
 
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+Sharing secrets, private keys, passwords, or credentials publicly can allow unauthorized users to access servers, applications, or cloud resources. This can lead to data breaches, service disruption, financial loss, and unauthorized changes to systems. Sensitive credentials should always be stored securely and never exposed in public repositories or shared documents.
 
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Unused cloud resources should be stopped or terminated to avoid unnecessary costs and reduce security risks. Removing resources that are no longer required also helps keep the environment organized, minimizes the attack surface, and ensures that only actively used infrastructure is maintained and monitored.
 
 ---
 
