@@ -20,7 +20,8 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-Add your screenshot here.
+<img width="1906" height="1085" alt="image" src="https://github.com/user-attachments/assets/a097a609-a29a-4da9-92bd-d625ce36f6d5" />
+
 
 ---
 
@@ -34,7 +35,9 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+<img width="1906" height="902" alt="image" src="https://github.com/user-attachments/assets/05b73342-00df-437c-b0ac-9a8089dc21a3" />
+
+
 
 ---
 
@@ -48,7 +51,8 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
+<img width="1195" height="847" alt="image" src="https://github.com/user-attachments/assets/543ee69d-c737-4991-be12-80b995a2f61d" />
+
 
 ---
 
@@ -62,7 +66,8 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-Add your screenshot here.
+<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/aa0eae44-bb3e-4fa3-992f-4f41a9dd9952" />
+
 
 ---
 
@@ -76,7 +81,8 @@ Install dependencies and generate the production build.
 
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
-Add your screenshot here.
+<img width="1907" height="900" alt="image" src="https://github.com/user-attachments/assets/3dbf7f55-11ed-4f25-9f73-79fb830b159d" />
+
 
 ---
 
@@ -90,7 +96,8 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-Add your screenshot here.
+<img width="1892" height="896" alt="image" src="https://github.com/user-attachments/assets/0a4358b2-96ab-4ed2-8a9c-a4fc9db37692" />
+
 
 ---
 
@@ -110,7 +117,8 @@ Add your screenshot here.
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
-Add your screenshot here.
+<img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/36c71acb-f280-42cd-a8e8-c17d6d2ac3f7" />
+
 
 ---
 
@@ -124,13 +132,15 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+<img width="1907" height="905" alt="image" src="https://github.com/user-attachments/assets/549443bd-fac5-45dc-a71c-6325104ae5a4" />
+
 
 ---
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
-Add your screenshot here.
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/3fe3f49d-f01c-43a4-b517-bb156febcdd9" />
+
 
 ---
 
