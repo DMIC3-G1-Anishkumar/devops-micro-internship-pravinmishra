@@ -20,13 +20,15 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 1 — Output of `git init` inside `CodeTrack` showing "Initialized empty Git repository"
 
-Add your screenshot here.
+<img width="1367" height="535" alt="image" src="https://github.com/user-attachments/assets/9a1c1e0b-b971-4c93-959f-04fbd795c446" />
+
 
 ---
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
-Add your screenshot here.
+<img width="1917" height="217" alt="image" src="https://github.com/user-attachments/assets/ac167990-c786-4d8b-8a36-7d7b3e0572cb" />
+
 
 ---
 
@@ -34,7 +36,7 @@ Add your screenshot here.
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
+The .git folder stores all Git repository information, including commit history, branches, configuration, and tracked-file metadata. It is important because Git uses this folder to recognize the project as a repository and manage its version history. Deleting it removes the repository’s Git history and configuration.
 
 ---
 
@@ -48,7 +50,8 @@ Set your Git username and email for the `CodeTrack` repository only, using `git 
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+<img width="1917" height="391" alt="image" src="https://github.com/user-attachments/assets/c2e19113-3ebf-486b-a12c-5fe57ed594b2" />
+
 
 ---
 
@@ -62,7 +65,8 @@ Set a global Git username and email for this machine using `git config --global`
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+<img width="1902" height="500" alt="image" src="https://github.com/user-attachments/assets/5ae4553f-160e-4633-a5ce-dde514e78a40" />
+
 
 ---
 
@@ -76,11 +80,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] `CodeTrack` folder created and initialized as a Git repository (Screenshots 1–2)
-- [ ] Explanation of the `.git` folder written in your own words
-- [ ] Local `user.name` and `user.email` configured and verified (Screenshot 3)
-- [ ] Global `user.name` and `user.email` configured and verified (Screenshot 4)
-- [ ] No sensitive data exposed
+- [Yes] `CodeTrack` folder created and initialized as a Git repository (Screenshots 1–2)
+- [Yes] Explanation of the `.git` folder written in your own words
+- [Yes] Local `user.name` and `user.email` configured and verified (Screenshot 3)
+- [Yes] Global `user.name` and `user.email` configured and verified (Screenshot 4)
+- [Yes] No sensitive data exposed
 
 ---
 
