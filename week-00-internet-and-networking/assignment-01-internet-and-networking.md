@@ -222,10 +222,6 @@ Add the following credit note at the end of your post:
 
 [(https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU)]
 
-```text
-Add your URL here...
-```
-
 ---
 
 ## LinkedIn Post Backup Copy
@@ -278,7 +274,6 @@ This week strengthened my understanding of the fundamentals that every DevOps en
 **#DevOps #Networking #Internet #DNS #VSCode #Learning #CloudComputing #GitHub #AgenticAI #DMI #TechLearning**
 
 **P.S.** This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: [https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html](https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html) · Start your DevOps journey: [https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3](https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3)
-
 
 ---
 
