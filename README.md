@@ -128,8 +128,8 @@ Week 01 → Success Mindset
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | — |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU | https://mydakshi.wordpress.com/2026/07/22/anish-2-0/) |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved |  https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU |https://mydakshi.wordpress.com/2026/07/22/anish-2-0|
 | 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
