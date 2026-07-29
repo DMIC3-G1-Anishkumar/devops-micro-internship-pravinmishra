@@ -136,25 +136,29 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
-Add your screenshot here.
+<img width="1917" height="771" alt="image" src="https://github.com/user-attachments/assets/ce8b8641-938b-4303-a306-fffe9668aadd" />
+
 
 ---
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-Add your screenshot here.
+<img width="1917" height="796" alt="image" src="https://github.com/user-attachments/assets/aaabea99-b0df-4729-bea7-efe3f1f0f835" />
+
 
 ---
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
-Add your screenshot here.
+<img width="1917" height="820" alt="image" src="https://github.com/user-attachments/assets/228f809b-a63c-40fb-bb78-ed13bc052ff2" />
+
 
 ---
 
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
-Add your screenshot here.
+<img width="1910" height="902" alt="image" src="https://github.com/user-attachments/assets/d21a59a1-adfe-4504-8c1b-e7ec4c9de2df" />
+
 
 ---
 
@@ -164,31 +168,31 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+The checks array stores the names of the five health checks.
 
 ---
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The 'for' loop reads each array item and executes the matching function.
 
 ---
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+Functions keep each check separate, reusable and easier to test.
 
 ---
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+$(...) runs a command and stores its output in a variable.
 
 ---
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+Different exit codes allow other tools to distinguish healthy, warning and failed results.
 
 ---
 
@@ -202,13 +206,15 @@ Run the Bash script against the healthy server and verify that it creates a repo
 
 #### Screenshot 9 — Output of `./scripts/linux-triage.sh` showing your Full Name and all five check results
 
-Add your screenshot here.
+<img width="1907" height="896" alt="image" src="https://github.com/user-attachments/assets/f750f256-7f80-4eef-b381-7a0457d0829c" />
+
 
 ---
 
 #### Screenshot 10 — Output showing the captured exit code and final summary
 
-Add your screenshot here.
+<img width="1877" height="692" alt="image" src="https://github.com/user-attachments/assets/345fbe50-9553-422c-9e36-e5fd0ede9f31" />
+
 
 ---
 
@@ -218,25 +224,25 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
+The expected healthy baseline status is HEALTHY.
 
 ---
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+Port 80 listening and an HTTP 200 response from curl prove that the application is serving traffic.
 
 ---
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
+The script should return exit code 0 because all five checks passed.
 
 ---
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
+A warning indicates a degraded condition that still works; a failure indicates that a critical check did not pass.
 
 ---
 
@@ -266,25 +272,25 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
+Bash gathers evidence, while Read and Grep inspect reports. Write is excluded because the workflow must remain read-only.
 
 ---
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
+disable-model-invocation: true helps ensure that the skill runs only when the human explicitly invokes it.
 
 ---
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
-Add your answer here.
+Bash gathers system evidence; Claude interprets and explains that evidence.
 
 ---
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
+The skill bases its conclusion on repeatable Linux evidence instead of guessing from a general question.
 
 ---
 
