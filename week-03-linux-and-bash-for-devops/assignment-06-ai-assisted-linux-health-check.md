@@ -64,7 +64,8 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
-Add your screenshot here.
+<img width="1917" height="896" alt="image" src="https://github.com/user-attachments/assets/dc86c33c-9cc1-4dc4-a923-521097559f4e" />
+
 
 ---
 
@@ -74,19 +75,19 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Project-specific rules help Claude understand the intended workflow, output format and operational restrictions.
 
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human must execute recovery commands because restarting or changing a service can affect availability and production workloads.
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The rule stating that Claude must not claim a root cause without supporting evidence prevents unsupported diagnosis.
 
 ---
 
@@ -100,7 +101,9 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 
 #### Screenshot 4 — Claude Code showing the five-check plan and read-only inspection results
 
-Add your screenshot here.
+<img width="1917" height="891" alt="image" src="https://github.com/user-attachments/assets/9013552b-2112-4c92-bc9a-fde9010d2150" />
+
+
 
 ---
 
@@ -110,19 +113,19 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+Claude's read-only inspection commands represent the Gather phase.
 
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+I verified that Claude did not create files by checking status and listing the project files.
 
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning helps identify required checks, thresholds, safety limits and expected outputs before implementation.
 
 ---
 
@@ -256,13 +259,14 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 
 #### Screenshot 11 — `SKILL.md` showing the frontmatter, allowed tool restrictions, and safety rules
 
-Add your screenshot here.
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/27598c76-4ebb-4675-b546-99e020287e2d" />
 
 ---
 
 #### Screenshot 12 — `/linux-triage` output for the healthy server
 
-Add your screenshot here.
+<img width="1917" height="915" alt="image" src="https://github.com/user-attachments/assets/416b54cb-ae16-4f4c-9b95-bf3bf3c16a33" />
+
 
 ---
 
@@ -304,19 +308,23 @@ Create a controlled service failure, gather evidence through Bash, and let Claud
 
 #### Screenshot 13 — Output showing Nginx is inactive and the HTTP request fails
 
-Add your screenshot here.
+<img width="1902" height="285" alt="image" src="https://github.com/user-attachments/assets/61ff8eec-034c-4879-bb0f-c95a333c70a5" />
+
 
 ---
 
 #### Screenshot 14 — `/linux-triage` output showing failed evidence, most likely cause, and a suggested recovery command
 
-Add your screenshot here.
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/d23dec04-e398-455a-962b-eccddfa0c5fb" />
+
+
 
 ---
 
 #### Screenshot 15 — `incident-failure-report.txt` showing the failed checks and your Full Name
 
-Add your screenshot here.
+<img width="1907" height="906" alt="image" src="https://github.com/user-attachments/assets/b3899b84-1cd5-4cf1-acec-716d7ed64565" />
+
 
 ---
 
@@ -326,31 +334,32 @@ Answer the following in your own words:
 
 **1. Which three checks failed?**
 
-Add your answer here.
+Nginx Service
+HTTP Port 80
+Local HTTP Response
 
 ---
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-Add your answer here.
+systemctl reported the Nginx service as inactive, there was no process listening on port 80, and the HTTP request to http://localhost failed.
 
 ---
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
-Add your answer here.
+No. Claude only suggested the recovery command. This is important because recovery actions should be approved and executed by a human to avoid unintended changes.
 
 ---
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
-
-Add your answer here.
+The Bash report represents the Gather phase because it collects system health evidence.
 
 ---
 
 **5. Which phase is represented by Claude's explanation?**
 
-Add your answer here.
+Claude's explanation represents the Analyze phase because it interprets the collected evidence and identifies the most likely cause.
 
 ---
 
@@ -364,25 +373,29 @@ Recover the service as the human operator and prove that the system is healthy a
 
 #### Screenshot 16 — Output showing Nginx is active and `curl -I http://localhost` returns 200 OK
 
-Add your screenshot here.
+<img width="1042" height="441" alt="image" src="https://github.com/user-attachments/assets/415358c2-a4b7-4753-bbf3-5391727054a1" />
+
 
 ---
 
 #### Screenshot 17 — Second `/linux-triage` output showing successful recovery with no FAIL results
 
-Add your screenshot here.
+<img width="1912" height="911" alt="image" src="https://github.com/user-attachments/assets/31b372f0-2034-4cf2-b801-25dd50c09949" />
+
 
 ---
 
 #### Screenshot 18 — Output of `ls -lah reports` showing both `incident-failure-report.txt` and `recovery-report.txt`
 
-Add your screenshot here.
+<img width="947" height="150" alt="image" src="https://github.com/user-attachments/assets/bc19b038-70df-402c-8232-9ed678cbf914" />
+
 
 ---
 
 #### Screenshot 19 — `incident-summary.md` showing all required sections and your Full Name
 
-Add your screenshot here.
+<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/514e2d88-d83a-46a4-9a5b-d8a96d4d0c59" />
+
 
 ---
 
@@ -392,31 +405,31 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
+I manually restarted the Nginx service using sudo systemctl start nginx.
 
 ---
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
+The Nginx service became active, port 80 was listening, curl -I http://localhost returned HTTP/1.1 200 OK, and the recovery triage report showed no failed checks.
 
 ---
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
+The second triage run confirms that the recovery action successfully restored the service and verifies that no health issues remain.
 
 ---
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
+It could hide the real cause of the failure, interrupt running applications, create restart loops, or make an existing problem worse without human approval.
 
 ---
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
+A chatbot provides general answers, while an agentic AI workflow collects real system evidence, analyzes it, waits for human approval, and verifies the outcome.
 
 ---
 
@@ -424,51 +437,60 @@ Add your answer here.
 
 Fill in all seven sections below in your own words.
 
-**Full Name:** Add your full name here
+**Full Name:** Anish Kumar
 
-**Date:** DD/MM/YYYY
+**Date:** 28/07/2026
 
 ---
 
 **1. Reported Symptom**
 
-Add your answer here.
+The React application became unavailable because the Nginx service was stopped. HTTP requests to the local server failed, making the website inaccessible.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
+The Bash triage script showed that the Nginx service was inactive, there was no process listening on port 80, and the HTTP request to `http://localhost` failed. Disk and memory usage remained within healthy limits.
 
 ---
 
 **3. Most Likely Cause**
 
-Add your answer here.
+The Nginx service had been stopped, preventing it from listening on port 80 and serving the React application.
 
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+After reviewing the evidence and Claude's recommendation, I manually executed:
+
+```bash
+sudo systemctl start nginx
+```
+
+to restore the Nginx service.
 
 ---
 
 **5. Verification**
 
-Add your answer here.
+After restarting Nginx, `systemctl is-active nginx` returned **active**, port 80 was listening, `curl -I http://localhost` returned **HTTP/1.1 200 OK**, and the second Linux triage report showed no failed checks.
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+The AI assistant did not perform any recovery actions automatically. It remained read-only, collected evidence, analyzed the incident, and suggested a recovery command, while the final recovery action was performed manually by the human operator.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+- **Gather:** The Bash triage script collected Linux and Nginx health information.
+- **Analyze:** Claude analyzed the collected evidence and identified the most likely cause.
+- **Human Act:** I manually restarted the Nginx service.
+- **Verify:** The triage script was executed again to confirm that the service recovered successfully and all checks passed.
 
 ---
 
