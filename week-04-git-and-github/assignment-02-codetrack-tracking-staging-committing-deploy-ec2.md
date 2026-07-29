@@ -20,14 +20,16 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-<img width="1912" height="172" alt="image" src="https://github.com/user-attachments/assets/4c6d0797-07ed-4795-8862-1bc88c73c03d" />
+<img width="696" height="102" alt="image" src="https://github.com/user-attachments/assets/1154419c-008e-47b4-870c-8214afea8e2a" />
+
 
 
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-<img width="1917" height="362" alt="image" src="https://github.com/user-attachments/assets/ab3db9dd-b852-449d-8bd8-85bf20ed6753" />
+<img width="837" height="175" alt="image" src="https://github.com/user-attachments/assets/fdcaebd5-ae59-4104-9fb4-4a0183d87efc" />
+
 
 
 ---
@@ -42,7 +44,8 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-<img width="1917" height="257" alt="image" src="https://github.com/user-attachments/assets/5bd4c361-d620-4eac-8ac8-b2ff523c827f" />
+<img width="592" height="307" alt="image" src="https://github.com/user-attachments/assets/443d589b-6038-4955-b7c1-79164fce01a4" />
+
 
 
 ---
@@ -57,7 +60,8 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-Add your screenshot here.
+<img width="1506" height="1062" alt="image" src="https://github.com/user-attachments/assets/4f2e382a-1cd1-4468-866a-ccb10e24c3cf" />
+
 
 ---
 
@@ -71,13 +75,15 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-Add your screenshot here.
+<img width="882" height="550" alt="image" src="https://github.com/user-attachments/assets/c3198bfe-9be8-4b38-abb0-c349cf8ae8f1" />
+
 
 ---
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
-Add your screenshot here.
+<img width="682" height="380" alt="image" src="https://github.com/user-attachments/assets/ae2e9d0a-81aa-48fc-aa16-ae4354ed3eea" />
+
 
 ---
 
@@ -91,13 +97,15 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+<img width="822" height="161" alt="image" src="https://github.com/user-attachments/assets/9a3a8d15-a417-437f-89c0-09773fddeffe" />
+
 
 ---
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
-Add your screenshot here.
+<img width="802" height="172" alt="image" src="https://github.com/user-attachments/assets/57d35de6-5ed0-4b64-9a68-10bf4c64f742" />
+
 
 ---
 
@@ -111,25 +119,30 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+<img width="1075" height="521" alt="image" src="https://github.com/user-attachments/assets/578bbbea-5353-45d4-9966-2c3526465059" />
+
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+<img width="977" height="222" alt="image" src="https://github.com/user-attachments/assets/220e6bd8-b3eb-42a8-862c-13c7f3c15e9f" />
+
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+<img width="900" height="287" alt="image" src="https://github.com/user-attachments/assets/3fd602f7-0832-4929-a420-6bf38e27ad72" />
+
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+<img width="860" height="300" alt="image" src="https://github.com/user-attachments/assets/6cc55ad8-bcff-427d-8dad-1af7e1c24319" />
+
+
 
 ---
 
@@ -143,19 +156,22 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 13 — Output of `systemctl status nginx --no-pager` showing Nginx `active (running)`
 
-Add your screenshot here.
+<img width="967" height="577" alt="image" src="https://github.com/user-attachments/assets/c3ddce36-6926-406a-9a58-2932fafc0349" />
+
 
 ---
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+<img width="875" height="232" alt="image" src="https://github.com/user-attachments/assets/6b529b48-b819-4542-98cb-7c43d6915568" />
+
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+<img width="1917" height="1087" alt="image" src="https://github.com/user-attachments/assets/55ca56cd-1301-4e93-a8b6-e4f400ac7b67" />
+
 
 ---
 
