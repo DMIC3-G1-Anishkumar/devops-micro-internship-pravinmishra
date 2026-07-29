@@ -20,13 +20,15 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
+<img width="1912" height="172" alt="image" src="https://github.com/user-attachments/assets/4c6d0797-07ed-4795-8862-1bc88c73c03d" />
+
 
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-Add your screenshot here.
+<img width="1917" height="362" alt="image" src="https://github.com/user-attachments/assets/ab3db9dd-b852-449d-8bd8-85bf20ed6753" />
+
 
 ---
 
@@ -40,7 +42,8 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-Add your screenshot here.
+<img width="1917" height="257" alt="image" src="https://github.com/user-attachments/assets/5bd4c361-d620-4eac-8ac8-b2ff523c827f" />
+
 
 ---
 
