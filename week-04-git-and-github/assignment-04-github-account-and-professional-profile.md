@@ -20,13 +20,15 @@ Confirm that you have a working GitHub account and can access your GitHub dashbo
 
 #### Screenshot 1 — GitHub dashboard or Home page showing you're signed in, with your username visible
 
-Add your screenshot here.
+<img width="1892" height="1077" alt="image" src="https://github.com/user-attachments/assets/e40e8da0-d212-4967-92a5-4761dcb04e8b" />
+
 
 ---
 
 #### Screenshot 2 (Optional but Recommended) — Your GitHub profile with `https://github.com/<username>` visible in the browser address bar
 
-Add your screenshot here.
+<img width="1901" height="1087" alt="image" src="https://github.com/user-attachments/assets/5b33bc96-5369-4f99-ae9e-4d99d33a1f1d" />
+
 
 ---
 
@@ -40,19 +42,22 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 3 — GitHub Trending page visible in the browser
 
-Add your screenshot here.
+<img width="1912" height="1092" alt="image" src="https://github.com/user-attachments/assets/e36b301f-74dc-459a-8794-159cb447ff08" />
+
 
 ---
 
 #### Screenshot 4 — A repository page showing the Star button in the Starred state
 
-Add your screenshot here.
+<img width="1902" height="1092" alt="image" src="https://github.com/user-attachments/assets/709f80ab-3f66-4b2c-a440-c7e2ba1cdb97" />
+
 
 ---
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
-Add your screenshot here.
+<img width="1907" height="1085" alt="image" src="https://github.com/user-attachments/assets/61e124ef-7df6-4308-9cc0-4af0b2adb69b" />
+
 
 ---
 
@@ -66,7 +71,8 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 
 #### Screenshot 6 — Your public GitHub profile showing your username and professional bio
 
-Add your screenshot here.
+<img width="1896" height="1087" alt="image" src="https://github.com/user-attachments/assets/f48d2de8-ab97-49e7-ac06-265fb5412041" />
+
 
 ---
 
@@ -82,7 +88,7 @@ Add your screenshot here.
 
 Paste your GitHub profile URL here:
 
-`Add your URL here`
+https://github.com/DMIC3-G1-Anishkumar
 
 ---
 
