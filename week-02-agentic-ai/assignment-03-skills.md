@@ -102,7 +102,7 @@ https://github.com/DMIC3-G1-Anishkumar/Ultimate-Agentic-DevOps-with-Claude-Code.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+
 ---
 
 # Completion Checklist
