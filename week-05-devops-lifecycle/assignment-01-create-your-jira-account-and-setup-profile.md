@@ -20,7 +20,8 @@ Create or access your Jira Cloud account and reach the Jira Software workspace s
 
 #### Screenshot 1 — Jira welcome page, dashboard, or main workspace after successful login, with your name or avatar visible
 
-Add your screenshot here.
+<img width="1912" height="917" alt="image" src="https://github.com/user-attachments/assets/ec42406b-1b94-48dc-b979-dcc825088e45" />
+
 
 ---
 
@@ -34,7 +35,8 @@ Confirm your email address if Atlassian requests verification.
 
 #### Screenshot 2 (if applicable) — Confirmation screen after email verification, or the inbox showing the Atlassian verification email subject
 
-Add your screenshot here.
+<img width="1477" height="802" alt="image" src="https://github.com/user-attachments/assets/43596d6c-e6a5-4547-8270-ff91165869de" />
+
 
 ---
 
@@ -42,7 +44,7 @@ Add your screenshot here.
 
 If you signed up with Google and no separate email verification was required, state that here instead of a screenshot.
 
-Write your answer here.
+Signed up with Google, only welcome email from Atlassian.
 
 ---
 
@@ -56,7 +58,8 @@ Update your Jira profile with your full name, a job title or role (e.g. "Aspirin
 
 #### Screenshot 3 — Updated profile page showing your full name, role/title, and bio
 
-Add your screenshot here.
+<img width="1122" height="861" alt="image" src="https://github.com/user-attachments/assets/e98525f1-ae81-49be-95a2-dd9e2c66ef99" />
+
 
 ---
 
