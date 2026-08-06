@@ -72,14 +72,14 @@ Week 00 → Internet & Networking Basics
 Week 01 → Success Mindset
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+Week 03 → Linux & Bash for DevOps
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
+Week 04 → Git & GitHub
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -133,7 +133,7 @@ Week 01 → Success Mindset
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | — | https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13 |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | — | https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13 |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | — | https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13 |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | 🔄 In Progress | 🔄 In Progress | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
@@ -161,6 +161,6 @@ Week 01 → Success Mindset
 If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
-- 🔗 Connect with me on [LinkedIn](#)
+- 🔗 Connect with me on https://www.linkedin.com/in/anish-kumar-3b348416b
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
 - 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
