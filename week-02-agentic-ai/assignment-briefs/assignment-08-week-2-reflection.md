@@ -99,104 +99,150 @@ Your reflection must include the following sections.
 
 #### 1. Biggest technical insight I got this week
 
-Write about the biggest thing you understood this week.
-For example, you can write about:
+Week 2 completely changed my understanding of how AI can be used in DevOps. Before starting these assignments, I thought AI was mainly useful for answering questions or generating code. After working with Claude Code, I realized that Agentic AI works best when it is guided by clear rules, defined responsibilities, and controlled access to tools.
 
-* How Claude Code can follow an Agentic Loop
-* Why `CLAUDE.md` helps control AI behavior
-* How skills turn long prompts into reusable slash commands
-* Why tool restrictions matter
-* How subagents help divide work
-* What MCP adds to an AI-powered DevOps workflow
-* Why hooks and permissions are important for safety
-* How memory helps make the workflow more consistent
+One of the biggest lessons was understanding the Agentic Loop (Gather → Analyze → Act → Verify). I learned that Claude first gathers information, analyzes the context, performs the required task, and then verifies the results before responding. This structured approach makes AI more reliable and suitable for real engineering workflows.
+
+Another important insight was learning the purpose of CLAUDE.md. Instead of repeating project instructions in every session, I can define project conventions, commands, and safety rules once, allowing Claude to work consistently across the project.
+
+Working with Skills, Subagents, MCP, Hooks, Permissions, and Memory also helped me understand that AI is much more than a chatbot. These features make it possible to build reusable workflows, connect AI to external systems, enforce safety restrictions, and maintain project context across sessions. Together, they showed me how automation, security, and human oversight can work together in a professional DevOps environment.
 
 ---
 
 #### 2. Biggest insight I got about myself this week
+This week made me realize that I understand concepts much better when I apply them in a practical environment rather than just reading about them. Working through real assignments involving Claude Code, Git, Hooks, Skills, and MCP helped me connect the theory with actual implementation. I also became much more confident using terminal commands and troubleshooting problems by carefully reading error messages instead of immediately trying different commands. This experience reinforced that hands-on practice is the most effective way for me to learn new technologies.
 
-Write about what you noticed about your own learning style.
-For example:
-
-* Do you rush without reading instructions?
-* Do you get stuck because you skip small details?
-* Do you learn better by doing instead of watching?
-* Did you become more confident using terminal commands?
-* Did you realize documentation is part of engineering?
 
 ---
 
 #### 3. My biggest weakness or loop I noticed
 
-Write honestly about one repeated challenge.
-For example:
-
-* I skip instructions too quickly
-* I do not verify folder structure carefully
-* I get confused between regular terminal and Claude Code terminal
-* I panic when commands fail
-* I forget to take screenshots at the correct step
-* I do not commit changes regularly
+One challenge I noticed is that I sometimes start working too quickly without fully understanding the complete workflow. This occasionally caused me to spend extra time correcting simple mistakes or repeating steps. I also found that when I encountered an error, I initially focused on fixing it immediately instead of first understanding what the error message was trying to tell me. As I progressed through the assignments, I became more patient and started using error messages as a guide rather than treating them as obstacles.
 
 ---
 
 #### 4. One system I will implement from this week
 
-Write one exact habit you will implement going forward.
-
-Your answer must include:
-
-* The habit
-* When you will do it
-* How it will help you
-
-Example:
-
-> Before starting every assignment, I will create a checklist in my notebook and verify each screenshot requirement before moving to the next task. I will do this every evening before my study session so that I do not miss proof during submission.
+From now on, I will spend the first 10 minutes of every new assignment understanding the complete workflow before running any commands. I will read through all the tasks, identify the required outputs, files, and dependencies, and note any important checkpoints. After that, I will start the implementation step by step instead of jumping directly into execution. This habit will help me avoid working in the wrong directory, reduce unnecessary errors, and make my work more organized and efficient.
 
 ---
 
 #### 5. What I learned about Agentic AI and DevOps
 
-Explain how your understanding of DevOps changed after using Agentic AI tools.
-
-You may include points like:
-
-* AI is not just for chatting
-* Agentic AI can follow structured workflows
-* Permissions and tool access matter
-* Reusable skills reduce manual work
-* DevOps engineers need both automation and control
-* Human review is still important
+This week changed my understanding of DevOps by showing me how AI can become part of a structured engineering process rather than just a coding assistant. I learned that reusable Skills simplify repetitive tasks, Subagents divide work into specialized responsibilities, MCP enables secure interaction with external systems, and Hooks and Permissions help enforce safety before actions are performed. I also realized that while AI can improve productivity and automate many tasks, human review and decision-making remain essential for maintaining quality, security, and accountability in DevOps workflows.
 
 ---
 
 #### 6. My Week 2 highlight
 
-Write about one moment you are proud of.
-
-Examples:
-
-* Creating the `.claude/skills/` folder structure correctly
-* Running `/scaffold-terraform`
-* Seeing Terraform files generated automatically
-* Understanding why `tf-plan` should not have Write access
-* Setting up memory or permissions
-* Fixing an error by reading the output carefully
+The highlight of my Week 2 journey was building the AI-assisted Git Safety Net using a Git pre-commit hook together with the /pr-ready skill. It was satisfying to see the pre-commit hook automatically block risky commits while the AI reviewed staged changes and generated a Pull Request draft without making any modifications itself. This assignment gave me a practical understanding of how fixed-rule automation and AI-assisted review complement each other in modern DevOps practices.
 
 ---
 
 ## 9. Minimum Requirements
 
-Your reflection blog must include:
+https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13
 
-* Title: `Reflection – Week 2`
-* Your full name
-* Minimum 300 words
-* All 6 required reflection sections
-* At least 2 technical topics from Week 2
-* One clear habit/system you will implement next week
-* Blog/document link must be publicly viewable or accessible to reviewers
+🤖 My DevOps Learning Journey — Week 02: Exploring Agentic AI in DevOps
+By Anish Kumar
+
+This article is part of my DevOps Learning Journey through the DevOps Micro Internship (DMI) with Agentic AI by Pravin Mishra. Every week, I share what I learn, the practical work I complete, and the insights that help me grow as an engineer. This week introduced me to Agentic AI and how it can be integrated into modern DevOps workflows.
+
+🚀 Introduction
+Week 02 was one of the most exciting and eye-opening weeks of my DevOps learning journey. Until now, I viewed AI primarily as a tool for answering questions or generating code snippets. This week completely changed that perspective.
+
+Through hands-on assignments using Claude Code, I learned that AI can become an active participant in software development workflows when it is provided with clear instructions, defined responsibilities, and controlled access to tools. Instead of being just a chatbot, Agentic AI can gather information, analyze it, follow predefined rules, and assist engineers while keeping humans in control of important decisions.
+
+This week helped me understand how AI can improve productivity without compromising safety or engineering standards.
+
+📚 Topics I Learned
+During Week 02, I worked on several important Agentic AI concepts, including:
+
+Understanding the Agentic Loop (Gather → Analyze → Human Act → Verify)
+Configuring project behavior using CLAUDE.md
+Creating reusable AI Skills
+Working with specialized Subagents
+Using MCP (Model Context Protocol) to connect AI with external systems
+Implementing Hooks and Permissions for safe automation
+Using Memory to maintain project context across sessions
+Building an AI-assisted Git Safety Net using pre-commit hooks and AI-powered PR review
+Each topic demonstrated how AI can become part of a structured engineering workflow instead of simply responding to prompts.
+
+💻 Hands-on Activities
+This week involved practical assignments that allowed me to apply every concept directly.
+
+Some of the activities I completed included:
+
+Configuring project instructions through CLAUDE.md
+Creating reusable Skills to simplify repetitive tasks
+Understanding how Subagents divide responsibilities
+Exploring MCP and how it connects Claude Code to external systems
+Building a Git pre-commit hook that blocks risky commits
+Creating a restricted /pr-ready skill to review staged Git changes and draft Pull Request content
+Learning how Memory helps maintain consistent project behavior
+These practical exercises helped me understand not just how the features work, but why they are valuable in real-world engineering environments.
+
+💡 Biggest Technical Insight
+The biggest insight I gained this week was realizing that AI is most effective when it operates within a structured system rather than through unrestricted conversations.
+
+I learned that every component has a specific purpose:
+
+CLAUDE.md defines project behavior.
+Skills transform repeated prompts into reusable commands.
+Subagents specialize in different responsibilities.
+MCP enables secure interaction with external tools.
+Hooks enforce safety before actions are executed.
+Permissions control what AI is allowed to do.
+Memory preserves important project context.
+Together, these components create a reliable workflow where automation, consistency, and human oversight work together.
+
+🙋 Biggest Personal Learning
+This week helped me better understand my own approach to learning.
+
+I realized that I become much more confident when I solve problems by experimenting, reading documentation carefully, and understanding error messages instead of immediately searching for answers. I also noticed that breaking complex assignments into smaller steps made even unfamiliar concepts much easier to understand.
+
+More importantly, I developed greater confidence in using Git, GitHub, Linux commands, and Claude Code as part of my daily workflow.
+
+⚠ Challenges I Faced
+One challenge I encountered was understanding how all the Agentic AI components fit together at first. Concepts like Skills, Subagents, MCP, Hooks, and Memory initially seemed independent.
+
+As I completed each assignment, I realized they are actually different building blocks of one larger workflow. Once I understood how they interact, the overall architecture became much clearer.
+
+Another challenge was resisting the urge to rush through assignments. Slowing down, reading the requirements carefully, and verifying each step helped me complete the work more accurately.
+
+🎯 Key Takeaways
+Some of the most valuable lessons from Week 02 include:
+
+AI becomes significantly more powerful when integrated into structured workflows.
+CLAUDE.md helps maintain consistent project behavior.
+Skills eliminate repetitive prompting by creating reusable workflows.
+Subagents improve organization by separating responsibilities.
+MCP enables AI to interact with external systems in a controlled manner.
+Hooks and Permissions are essential safety mechanisms.
+Memory improves consistency by preserving important project context.
+Human review remains critical for decisions such as commits, deployments, and Pull Requests.
+📈 My Action Plan
+Going forward, I want to make my AI-assisted workflow more structured.
+
+Before starting any project, I will define clear project instructions, identify repetitive tasks that can be converted into reusable Skills, and think about where automation can safely assist without removing human oversight.
+
+I will also spend time understanding why a workflow is designed a certain way instead of only focusing on completing the assignment. I believe this approach will help me build more reliable and maintainable automation solutions.
+
+🔜 What’s Next?
+After learning how Agentic AI can improve engineering workflows, I am excited to continue my DevOps journey by exploring more advanced topics and applying these concepts to real-world infrastructure, automation, cloud platforms, and CI/CD pipelines.
+
+🙏 Final Thoughts
+Week 02 has been one of the most valuable learning experiences in my DevOps journey so far.
+
+It changed my understanding of AI from being a simple assistant to becoming a structured engineering tool that works alongside developers through well-defined workflows.
+
+The combination of automation, safety controls, reusable components, and human decision-making gave me a practical view of how modern engineering teams can use AI responsibly.
+
+I look forward to building on these concepts in future projects and continuing to document my learning journey.
+
+Thank you for reading!
+
+If you’re also learning DevOps, AI-assisted development, or modern engineering practices, I’d be happy to connect and exchange ideas.
 
 ---
 
@@ -222,7 +268,7 @@ Hashtags:
 
 ## 11. Submission Instructions
 
-Submit the GitHub Repo Link. 
+https://github.com/DMIC3-G1-Anishkumar/devops-micro-internship-pravinmishra.git
 
 ---
 
