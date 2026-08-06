@@ -163,9 +163,7 @@ From a determined IT Manager at Medicodio to a visionary leader driving the futu
 
 ### Public Link
 
-Paste your link here:
-
-[(https://mydakshi.wordpress.com/2026/07/22/anish-2-0/)]
+https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13
 
 ---
 
@@ -367,14 +365,14 @@ Every day from 9:00 PM to 10:00 PM, I will work on one focused learning task wit
 
 Paste your LinkedIn post link here: https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU
 
-[(https://mydakshi.wordpress.com/2026/07/22/anish-2-0/)]
+https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **[ADD LINK HERE](https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU)**  
-- Blog / Medium : [(https://mydakshi.wordpress.com/2026/07/22/anish-2-0/)]
+- LinkedIn Post URL: https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU
+- Blog / Medium : https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13
 ---
 
 ## 📌 About DMI & CloudAdvisory
