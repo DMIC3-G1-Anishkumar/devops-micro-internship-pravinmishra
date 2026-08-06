@@ -128,11 +128,11 @@ Week 01 → Success Mindset
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU | https://mydakshi.wordpress.com/2026/07/22/anish-2-0/) |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved |  https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU |https://mydakshi.wordpress.com/2026/07/22/anish-2-0|
-| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | — | — |
-| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | — | — |
-| 04 | Git & GitHub | 🔄 In Progress | 🔄 In Progress | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU | https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13 |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved |  https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU |https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13|
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | — | https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13 |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | — | https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13 |
+| 04 | Git & GitHub | ✅ Completed | ✅ Solved | — | https://medium.com/@anish.kumar1404/my-devops-learning-journey-devops-micro-internship-cohort-3-9fd4942dfbd6?source=friends_link&sk=c63be3909a4dfcf75b75c6d41e306e13 |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
