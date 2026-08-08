@@ -20,7 +20,7 @@ Create a private, team-managed Scrum project named `DevOps Micro-Internship Webs
 
 #### Screenshot 1 — Project confirmation or project sidebar showing the project name and key
 
-Add your screenshot here.
+<img width="1912" height="1091" alt="image" src="https://github.com/user-attachments/assets/95ad1d8e-1fd7-424d-86f3-98d8670339df" />
 
 ---
 
@@ -34,7 +34,8 @@ Create the Epic `Polish DMI Website UI & Deploy` to group the website UI and dep
 
 #### Screenshot 2 — Backlog showing the Epic panel enabled and the Epic visible
 
-Add your screenshot here.
+<img width="1897" height="995" alt="image" src="https://github.com/user-attachments/assets/eebf72fe-6e84-4990-acd8-44c07a07a168" />
+
 
 ---
 
@@ -48,13 +49,16 @@ Create all six required Stories (S1–S6) under the Epic, each with its descript
 
 #### Screenshot 3 — Backlog showing the Epic and all six Stories under it
 
-Add your screenshot here.
+<img width="1917" height="880" alt="image" src="https://github.com/user-attachments/assets/44fd8671-7051-4f26-a97f-5b36a94bf5ad" />
+
+
 
 ---
 
 #### Screenshot 4 — One opened Story showing its Story point estimate, acceptance criteria, and label
 
-Add your screenshot here.
+<img width="1912" height="990" alt="image" src="https://github.com/user-attachments/assets/099ccfad-2c12-4130-9a76-c2f6fc9b9b31" />
+
 
 ---
 
