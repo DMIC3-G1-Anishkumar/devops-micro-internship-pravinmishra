@@ -20,13 +20,15 @@ Create the footer Story (`Add footer with version and deploy date`, 1 point, `fr
 
 #### Screenshot 1 — Sprint 1 created with the Story inside it
 
-Add your screenshot here.
+<img width="1601" height="898" alt="image" src="https://github.com/user-attachments/assets/6479cd84-7103-4e5e-a025-d3ba152ff342" />
+
 
 ---
 
 #### Screenshot 2 — Active Sprint board showing the Sprint Goal
 
-Add your screenshot here.
+<img width="1507" height="960" alt="image" src="https://github.com/user-attachments/assets/71ecd6f1-4685-431f-97d8-d05c0cdada52" />
+
 
 ---
 
@@ -40,25 +42,29 @@ Add the required footer text (`Portfolio v1.0 — Deployed on <DD Mon YYYY> — 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-Add your screenshot here.
+<img width="1882" height="1025" alt="image" src="https://github.com/user-attachments/assets/4a3bdea4-b080-4648-8c80-6ec232cc6db7" />
+
 
 ---
 
 #### Screenshot 4 — Successful Git commit output
 
-Add your screenshot here.
+<img width="1092" height="562" alt="image" src="https://github.com/user-attachments/assets/3487e47c-946b-44b0-b5d5-ea70c691d3c2" />
+
 
 ---
 
 #### Screenshot 5 — EC2 browser view showing the complete footer text, with the URL visible
 
-Add your screenshot here.
+<img width="1893" height="1086" alt="image" src="https://github.com/user-attachments/assets/6709c5f7-29de-409d-abbc-76f684cb2005" />
+
 
 ---
 
 #### Screenshot 6 — Jira Story comment showing the Day 1 Daily Scrum update
 
-Add your screenshot here.
+<img width="1602" height="882" alt="image" src="https://github.com/user-attachments/assets/31b8e9a4-e4ae-4dac-a854-ae68c3ddbaef" />
+
 
 ---
 
@@ -72,25 +78,29 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 7 — Code editor showing the footer and date logic
 
-Add your screenshot here.
+<img width="1362" height="817" alt="image" src="https://github.com/user-attachments/assets/3a4fe7fe-e19f-4978-ba14-5a16175ad2e6" />
+
 
 ---
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-Add your screenshot here.
+<img width="1890" height="1085" alt="image" src="https://github.com/user-attachments/assets/27b5f941-1be9-4d25-9de9-fe377804f6ac" />
+
 
 ---
 
 #### Screenshot 9 — README snippet documenting the footer and date behavior
 
-Add your screenshot here.
+<img width="1467" height="857" alt="image" src="https://github.com/user-attachments/assets/ba798b26-49fc-4d7b-b8a5-4a585fec63d1" />
+
 
 ---
 
 #### Screenshot 10 — Jira Story comment showing the Day 2 Daily Scrum update
 
-Add your screenshot here.
+<img width="1560" height="782" alt="image" src="https://github.com/user-attachments/assets/46bc1a30-3c6f-4ef4-8d16-2876a8681b30" />
+
 
 ---
 
@@ -104,19 +114,22 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 11 — Desktop EC2 view showing the polished footer
 
-Add your screenshot here.
+<img width="1887" height="1087" alt="image" src="https://github.com/user-attachments/assets/6e264711-0064-41dc-be81-423863d6ef2c" />
+
 
 ---
 
 #### Screenshot 12 — Mobile responsive view showing the footer remains readable
 
-Add your screenshot here.
+<img width="1195" height="1127" alt="image" src="https://github.com/user-attachments/assets/97053b76-30a5-444b-bd66-1e9aa646206d" />
+
 
 ---
 
 #### Screenshot 13 — Jira Story comment showing the Day 3 Daily Scrum update
 
-Add your screenshot here.
+<img width="1901" height="1092" alt="image" src="https://github.com/user-attachments/assets/dc460cfa-7378-4dd0-9082-cd8e4077a32e" />
+
 
 ---
 
@@ -130,7 +143,8 @@ Replace the existing homepage tagline with the required DMI Discord call-to-acti
 
 #### Screenshot 14 — EC2 browser view showing "Join DMI Cohort 3 on Discord and start your DevOps journey"
 
-Add your screenshot here.
+<img width="1911" height="1085" alt="image" src="https://github.com/user-attachments/assets/5ea835fe-d35c-41f5-84ca-f3deed4e8fff" />
+
 
 ---
 
@@ -150,13 +164,15 @@ Add your screenshot here.
 
 #### Screenshot 16 — Jira retrospective comment
 
-Add your screenshot here.
+<img width="1608" height="873" alt="image" src="https://github.com/user-attachments/assets/b7a47e2a-a6ef-45eb-8b78-7a2527e833ac" />
+
 
 ---
 
 #### Screenshot 17 — Final EC2 browser view showing the complete footer requirement
 
-Add your screenshot here.
+<img width="1908" height="1093" alt="image" src="https://github.com/user-attachments/assets/f1fbb31f-f10e-48e6-9642-35cb72a3ab01" />
+
 
 ---
 
@@ -164,7 +180,7 @@ Add your screenshot here.
 
 Paste your unlisted YouTube or accessible Google Drive demo-video link here:
 
-`Add your URL here`
+https://drive.google.com/file/d/14E3BWxGXDaZIl7RHgoXE1QqzVf8lFW6g/view?usp=drive_link
 
 ---
 
