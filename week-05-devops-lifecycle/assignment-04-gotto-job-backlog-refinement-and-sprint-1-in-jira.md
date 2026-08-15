@@ -20,7 +20,8 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+<img width="1906" height="1027" alt="image" src="https://github.com/user-attachments/assets/e79d3b24-9428-41b0-8a43-d5f6b6329bd9" />
+
 
 ---
 
@@ -28,7 +29,14 @@ Add your screenshot here.
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+* **PO (Product Owner):** I prioritized the backlog based on user value and selected the most practical Story to deliver within the available time.
+
+* **SM (Scrum Master):** I followed the Scrum process by keeping the work timeboxed, updating the board, and completing the required Sprint activities and retrospective.
+
+* **Dev Lead:** I implemented the selected UI change by updating the Gotto Job website and verifying that the change worked as expected.
+
+* **DevOps Lead:** I committed the change in Git, deployed it to EC2 through Nginx, and verified that the updated website was live on the public URL.
+
 
 ---
 
@@ -42,7 +50,8 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+<img width="1906" height="1027" alt="image" src="https://github.com/user-attachments/assets/f9de0bae-07f7-4067-a965-a57a2d264fbf" />
+
 
 ---
 
@@ -56,7 +65,9 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+<img width="1486" height="965" alt="image" src="https://github.com/user-attachments/assets/00b78e99-03a1-4e50-916c-8c2783f858f1" />
+
+
 
 ---
 
@@ -70,13 +81,15 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+<img width="1482" height="960" alt="image" src="https://github.com/user-attachments/assets/988c0a32-59ca-429d-8ecd-a87759ba496f" />
+
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+<img width="1501" height="947" alt="image" src="https://github.com/user-attachments/assets/1a83b60a-bc32-4131-983d-9af1bafa9831" />
+
 
 ---
 
@@ -90,7 +103,12 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+<img width="1597" height="990" alt="image" src="https://github.com/user-attachments/assets/89f4d92b-315a-44a4-b228-b71083dfc17f" />
+<img width="1558" height="982" alt="image" src="https://github.com/user-attachments/assets/b43db067-486c-44cb-8360-a0e789bf7b65" />
+<img width="1582" height="997" alt="image" src="https://github.com/user-attachments/assets/57ab9376-5bef-4337-b94c-9b30e9f570ed" />
+
+
+
 
 ---
 
@@ -98,7 +116,14 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+S1 – Hero tagline (1 point): This is a very small change because only one heading needs to be updated. It does not require any additional logic or major testing.
+S2 – Button colour (1 point): This mainly requires changing the button colour in CSS. Even though multiple buttons may be affected, the change itself is simple and easy to verify.
+S3 – Job card typography (2 points): This needs changes to the font size and weight, followed by checks to make sure the job cards still look good on different screen sizes.
+S4 – REMOTE badge (2 points): This is slightly more complex because a new badge needs to be added and shown only for remote jobs, so some additional logic and testing are required.
+S5 – Posted on date (1 point): This is a simple text addition and does not involve any complex functionality, so it is a small task.
+S6 – Search labels (2 points): Multiple labels and placeholders need to be updated and verified, so it requires more effort than changing a single text element.
+S7 – Job Detail "Apply Now" Button (1 point): This only requires adding one button with a link to an email address or placeholder URL. Since there is no extra logic involved, it is a simple change.
+S8 – Footer Trust Links (1 point): This requires adding only two footer links, "About" and "Contact". It is a small HTML update with no complex functionality.
 
 ---
 
@@ -112,13 +137,16 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
+<img width="1292" height="298" alt="image" src="https://github.com/user-attachments/assets/fca1cfbf-20f3-4533-9291-57cd24d8862f" />
+
+
 
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-Add your screenshot here.
+<img width="1593" height="987" alt="image" src="https://github.com/user-attachments/assets/9b43dd8f-71ab-4a8a-8066-6d92aa8c93e9" />
+
 
 ---
 
@@ -132,7 +160,7 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+<img width="1563" height="966" alt="image" src="https://github.com/user-attachments/assets/b0f486fa-7204-4cc8-8bec-9505133ea522" />
 
 ---
 
@@ -146,19 +174,22 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+<img width="1587" height="983" alt="image" src="https://github.com/user-attachments/assets/8911f194-ac0c-4efe-b0dd-1fadd2599f65" />
+
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+<img width="1208" height="1047" alt="image" src="https://github.com/user-attachments/assets/f0f3db97-6e51-4a85-8b42-9ff4c1a3cd52" />
+
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+<img width="1907" height="1087" alt="image" src="https://github.com/user-attachments/assets/cba7bb91-9124-4422-b2f7-380e77107f1b" />
+
 
 ---
 
@@ -172,7 +203,8 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+<img width="1902" height="1027" alt="image" src="https://github.com/user-attachments/assets/afc06107-1641-4cdc-befd-17ba7384f389" />
+
 
 ---
 
