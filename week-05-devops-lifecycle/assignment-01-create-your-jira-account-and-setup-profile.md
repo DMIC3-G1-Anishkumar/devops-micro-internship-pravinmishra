@@ -44,7 +44,13 @@ Confirm your email address if Atlassian requests verification.
 
 If you signed up with Google and no separate email verification was required, include the following statement instead of Screenshot 2:
 
+<<<<<<< HEAD
 Signed up with Google, only welcome email from Atlassian.
+=======
+> I signed up using Google, and Atlassian did not require separate email verification.
+
+Add any additional notes here.
+>>>>>>> upstream/main
 
 ---
 

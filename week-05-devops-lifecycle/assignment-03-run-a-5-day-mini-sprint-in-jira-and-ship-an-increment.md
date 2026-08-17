@@ -81,6 +81,7 @@ Update the footer so the deployment date is generated automatically (or updated 
 <img width="1362" height="817" alt="image" src="https://github.com/user-attachments/assets/3a4fe7fe-e19f-4978-ba14-5a16175ad2e6" />
 
 
+
 ---
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
@@ -142,8 +143,11 @@ Replace the existing homepage tagline with the required DMI Website call-to-acti
 ### Evidence
 
 #### Screenshot 14 — EC2 browser view showing "Start your DevOps Journey here" and the clickable "Visit the DMI Website" link
+<<<<<<< HEAD
 
 <img width="1911" height="1085" alt="image" src="https://github.com/user-attachments/assets/5ea835fe-d35c-41f5-84ca-f3deed4e8fff" />
+=======
+>>>>>>> upstream/main
 
 
 ---
