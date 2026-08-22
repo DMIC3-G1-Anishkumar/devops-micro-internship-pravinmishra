@@ -20,7 +20,8 @@ Download or clone the portfolio website template from GitHub and confirm `index.
 
 #### Screenshot 1 — File Explorer or terminal showing the template folder contents with `index.html` visible
 
-Add your screenshot here.
+<img width="787" height="176" alt="image" src="https://github.com/user-attachments/assets/71bc9f04-fd27-403c-ab72-50964709f296" />
+
 
 ---
 
@@ -34,7 +35,8 @@ Create a globally unique S3 bucket in your chosen AWS region.
 
 #### Screenshot 2 — S3 bucket created screen showing the bucket name and region
 
-Add your screenshot here.
+<img width="1906" height="992" alt="image" src="https://github.com/user-attachments/assets/c84b0152-3626-4c44-834c-2feb58437dbe" />
+
 
 ---
 
@@ -48,7 +50,8 @@ Upload the contents of the template folder (not the folder itself) so `index.htm
 
 #### Screenshot 3 — S3 bucket Objects view showing `index.html` at the top or root level
 
-Add your screenshot here.
+<img width="1907" height="1047" alt="image" src="https://github.com/user-attachments/assets/ab99372e-f038-4a33-98c2-4e9c185ffdc6" />
+
 
 ---
 
@@ -62,7 +65,8 @@ Enable S3 Static Website Hosting with `index.html` as the index document and `er
 
 #### Screenshot 4 — Static website hosting enabled screen showing the Website endpoint
 
-Add your screenshot here.
+<img width="1822" height="533" alt="image" src="https://github.com/user-attachments/assets/a545150a-b193-4ae4-ac20-06c9baf58a4b" />
+
 
 ---
 
@@ -76,7 +80,8 @@ Adjust Block Public Access settings and save a bucket policy that grants public 
 
 #### Screenshot 5 — Bucket policy page showing the policy saved successfully, with the bucket name visible
 
-Add your screenshot here.
+<img width="1900" height="1028" alt="image" src="https://github.com/user-attachments/assets/7ac0df09-e066-4e0e-aa18-d2aa5a71a113" />
+
 
 ---
 
@@ -90,7 +95,8 @@ Load the site through the S3 website endpoint and confirm the homepage, images, 
 
 #### Screenshot 6 — Browser showing the live website with the S3 website endpoint visible in the address bar
 
-Add your screenshot here.
+<img width="1913" height="1082" alt="image" src="https://github.com/user-attachments/assets/ee5b5403-2a22-4f24-a36a-495b79eda219" />
+
 
 ---
 
@@ -104,7 +110,8 @@ Edit a small visible detail, re-upload it to S3, and confirm the change appears 
 
 #### Screenshot 7 (optional) — Before and after views, or a browser view showing the updated text
 
-Add your screenshot here.
+<img width="1915" height="1087" alt="image" src="https://github.com/user-attachments/assets/c8bfa75b-293d-441a-945d-b08924729cb9" />
+
 
 ---
 
